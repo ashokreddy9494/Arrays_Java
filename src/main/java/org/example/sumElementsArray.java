@@ -13,7 +13,6 @@ public class sumElementsArray {
         int sum = 0;
         for(int x: arr){
             sum+=x;
-
         }
         System.out.println("The sum is "+sum);
     }public static void main(){
