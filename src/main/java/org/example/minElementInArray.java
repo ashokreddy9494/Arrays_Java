@@ -15,6 +15,7 @@ public class minElementInArray {
         for(int x : arr){
             if(x < min){
                 min = x;
+
             }
         }
         System.out.print("The minimum element: " +min);
