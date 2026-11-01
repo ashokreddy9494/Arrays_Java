@@ -1,7 +1,7 @@
 package org.Arrays;
 import  java.util.*;
 
-public class arraySortByGPT {
+public class sortArrayByGPT {
     static Scanner sc = new Scanner(System.in);
 
     // 1. Automatic Ascending Sort
@@ -108,7 +108,7 @@ public class arraySortByGPT {
 
     public static void main(String[] args) {
 
-        arraySortByGPT obj = new arraySortByGPT();
+        sortArrayByGPT obj = new sortArrayByGPT();
 
         obj.autoAscendingSort();
         obj.autoDescendingSort();
