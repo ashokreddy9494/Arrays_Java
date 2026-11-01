@@ -18,12 +18,12 @@ public class duplicatesArray {
 
             for(int j=0;j<i;j++){
                 if(arr[i]==arr[j]){
-                    duplicate=true;
+                    duplicate=true; //if duplicate found it's true then break
                     break;
                 }
             }
             if(duplicate==false){
-                System.out.print(arr[i] + " ");
+                System.out.print(arr[i] + " "); // printing all non-duplicate elements in order
             }
         }
     }
