@@ -22,6 +22,7 @@ public class duplicatesArray {
                     break;
                 }
             }
+
             if(duplicate==false){
                 System.out.print(arr[i] + " "); // printing all non-duplicate elements in order
             }
