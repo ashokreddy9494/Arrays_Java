@@ -1,4 +1,4 @@
-package org.example;
+package org.Arrays;
 
 public class task_4 {
     public int meth1(){

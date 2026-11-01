@@ -1,4 +1,4 @@
-package org.example;
+package org.Arrays;
 import java.util.*;
 public class minElementInArray {
     public void meth1(){
