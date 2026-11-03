@@ -1,6 +1,6 @@
 package strings.string_class_methods;
 // It is used to compare the content
-// In this Spaces and UPPER and LOWER cases alos matters
+// In this Spaces and UPPER and LOWER cases also matters
 public class DotEqualsMethod {
     public static void main(String[] args) {
         String s1 = "java";
