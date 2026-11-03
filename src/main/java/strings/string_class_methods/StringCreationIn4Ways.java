@@ -1,4 +1,4 @@
-package strings;
+package strings.string_class_methods;
 
 public class StringCreationIn4Ways {
     void meth1(){
