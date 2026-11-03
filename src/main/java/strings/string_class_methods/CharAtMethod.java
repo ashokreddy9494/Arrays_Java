@@ -1,5 +1,5 @@
 package strings.string_class_methods;
-
+//It used to print the index value of the string
 public class CharAtMethod {
     public static void main(String[] args) {
         String s1 = "ee sala cup namde";
