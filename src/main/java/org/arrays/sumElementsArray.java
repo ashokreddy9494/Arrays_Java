@@ -1,4 +1,4 @@
-package org.Arrays;
+package org.arrays;
 import java.util.*;
 public class sumElementsArray {
     public  void sumElements(){

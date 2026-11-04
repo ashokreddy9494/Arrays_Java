@@ -1,4 +1,4 @@
-package org.Arrays;
+package org.arrays;
 import java.util.Scanner;
 public class printReverseArray {
     public void meth1(){
