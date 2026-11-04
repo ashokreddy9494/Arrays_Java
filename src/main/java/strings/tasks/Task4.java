@@ -1,4 +1,4 @@
-package strings.string_class_methods.tasks;
+package strings.tasks;
 // It is used to change all Upper Case string into Lower Case
 import java.util.*;
 public class Task4 {

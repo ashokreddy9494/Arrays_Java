@@ -1,4 +1,4 @@
-package strings.string_class_methods.tasks;
+package strings.tasks;
 import java.util.*;
 public class Task1 {
     void meth1(){

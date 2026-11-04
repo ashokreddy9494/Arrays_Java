@@ -1,4 +1,4 @@
-package strings.string_class_methods.tasks;
+package strings.tasks;
 
 import java.util.*;
 public class Task5 {

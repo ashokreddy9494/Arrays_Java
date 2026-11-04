@@ -1,4 +1,4 @@
-package strings.string_class_methods.tasks;
+package strings.tasks;
 //It is used to check the length of the string
 import java.util.*;
 public class Task2 {
