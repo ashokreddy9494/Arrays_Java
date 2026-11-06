@@ -1,10 +1,34 @@
 package org.arrays;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    static void main() {
 
+class A{
+
+}
+class B extends A{
+
+}
+class C extends B{
+
+}
+class Main {
+    static void meth1(A a){
+        System.out.println("one");
+    }
+    static void meth1(B b){
+        System.out.println("two");
+    }
+    static void meth1(C c){
+        System.out.println("three");
+    }
+    static void meth1(Object obj){
+        System.out.println("object");
+    }
+    public static void main(String[] args) {
+
+        C c = new C();
+        meth1(c);
 
     }
 }
+
+
